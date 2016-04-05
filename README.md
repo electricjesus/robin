@@ -10,7 +10,7 @@ This is a living document! Feel free to contribute, make changes, and commit!
 - Each chatroom can vote to: ABANDON, STAY, or GROW. Votes are by majority.
 	- If they ABANDON, the chat room dissolves and each user goes back to the beginning.
 	- If they STAY, a private subreddit is created for these users.
-	- If they GROW, they will be merged with another chat room (of the same size? Or any other room?)
+	- If they GROW, they will be merged with another chat room of the same tier. Chats start at tier 1 and increase when they are 	merged.
 - Each user must choose each time a new vote is called. Failure to vote counts as an abandon vote.
 	- Some people have complained that this makes growing difficult when people go to sleep, but I think that is a fair and organic result from the way Robin fosters communities of appropriate size.
 
